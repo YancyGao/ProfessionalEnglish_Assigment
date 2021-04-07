@@ -1,2 +1,0 @@
-# ProfessionalEnglish_Assigment
-专业英语作业一
