@@ -3,11 +3,11 @@
 [README](README.md)
 
 
-~这是一个页眉
+~this is yemei
 
 [geogle](http:www.geogle.com"谷歌")
 
-![chen](chen.jpg)
+![chen](https://github.com/YancyGao/ProfessionalEnglish_Assigment/edit/main/chen.jpg)
 
 ![avatar](https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png)
 
@@ -65,9 +65,9 @@ Markdown 语法展示
 
 
 
-**加粗13414**
+**jiacu13414**
 
-*斜体*
+*xieti*
 
-<u>划线</u>
+<u>underline</u>
 
